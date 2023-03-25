@@ -1,0 +1,1 @@
+This is a Python Logging Basics repo containing basic information of how to do logging 
