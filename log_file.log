@@ -1,0 +1,11 @@
+2023-03-25 12:03:58,672 - INFO - info
+2023-03-25 12:03:58,672 - WARNING - warning
+2023-03-25 12:03:58,672 - ERROR - error
+2023-03-25 12:03:58,672 - CRITICAL - critical
+2023-03-25 12:03:58,672 - INFO - The value of x is 7
+2023-03-25 12:03:58,672 - ERROR - Zero Division error occured
+Traceback (most recent call last):
+  File "C:\Users\vinay\Desktop\Python Logging\Python_Logging.py", line 23, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2023-03-25 12:03:58,672 - INFO - Testing the Custom Logger
